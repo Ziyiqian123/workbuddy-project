@@ -1,3 +1,6 @@
+# WorkBuddy local data
+.workbuddy/
+
 # OS generated files
 .DS_Store
 Thumbs.db
